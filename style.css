@@ -1,0 +1,141 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.shopping-bag img {
+    height: 2.5rem;
+}
+
+.carousel-caption {
+    padding-bottom: 9rem;
+}
+
+.heading {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.content {
+    font-size: 5rem;
+    font-weight: 10rem;
+}
+
+.custom-button {
+    color: black;
+    padding: 0.6rem;
+    border-radius: 15px;
+}
+
+.cart {
+    top: 0.7rem;
+    right: 7rem;
+    padding: 0.9px 5px;
+    font-size: 12px;
+    background-color: rgb(27, 23, 23);
+    color: white;
+}
+
+.heart {
+    top: 0.7rem;
+    right: 9rem;
+    padding: 0.9px 5px;
+    font-size: 12px;
+    background-color: red;
+    color: white;
+}
+
+.product p {
+    position: absolute;
+    top: 25px;
+    right: 40px;
+    padding: 5px;
+    background-color: rgb(235, 88, 112);
+    border-radius: 50%;
+    color: white;
+}
+
+.btn {
+    border: 1px solid black;
+    margin: 10px;
+
+}
+
+.btn:hover {
+    background-color: rgb(235, 88, 112);
+
+}
+
+#special {
+    padding: 6rem;
+}
+
+.head {
+    border-left: 5px solid rgb(235, 88, 112);
+    line-height: 80px;
+    padding-left: 10px;
+}
+
+.button .btn {
+    border-radius: 20px;
+}
+
+.icon-one {
+    position: absolute;
+    left: 19rem;
+    margin-top: 20px;
+    font-size: 30px;
+
+}
+
+.icon-two {
+    position: absolute;
+    right: 42rem;
+    margin-top: 20px;
+    font-size: 30px;
+
+}
+
+.icon-three {
+    position: absolute;
+    right: 25rem;
+    margin-top: 20px;
+    font-size: 30px;
+
+}
+
+.icon-four {
+    position: absolute;
+    right: 8rem;
+    margin-top: 20px;
+    font-size: 30px;
+
+}
+
+.container-fluid.bg-image {
+    background-image: url("./images/offer_img.jpg");
+    height: 600px;
+    background-size: cover;
+}
+
+.pic img {
+    transition: all 0.3s ease;
+}
+
+.pic img:hover {
+    transform: scale(1.2);
+}
+
+#blog {
+    padding-top: 8rem;
+}
+
+.item-one {
+    padding-top: 14rem;
+    margin-left: 6rem;
+
+}
+
+.about p {
+    font-family: "cursive";
+}
